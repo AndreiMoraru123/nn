@@ -1,2 +1,1 @@
-# NeuralModelling
-Neural Networks: Zero to Hero 
+Some more neural nets
